@@ -696,22 +696,10 @@ body {
         border-radius: 50px;
     }
     .stage {
-        padding: 190px 0px 0px 30px;
-        color: rgb(243, 234, 234);
-        font-size: 30px;
-        font-family: sans-serif;
-        width: 100%;
-        text-align: left;
-        box-sizing: border-box;
-        position: relative;
-        top: -400px;
+          display: none
     }
     .petittexte {
-        position: absolute;
-        left: 8%;
-        font-size: 17px;
-        top: 225px;
-        color: rgb(169, 160, 160);
+          display: none
     }
     .border1 {
         background: #111;
